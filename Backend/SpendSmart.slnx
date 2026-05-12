@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="SpendSmart.Auth.API/SpendSmart.Auth.API.csproj" />
+  <Project Path="SpendSmart.Budget.API/SpendSmart.Budget.API.csproj" />
+  <Project Path="SpendSmart.Category.API/SpendSmart.Category.API.csproj" />
+  <Project Path="SpendSmart.Expense.API/SpendSmart.Expense.API.csproj" />
+  <Project Path="SpendSmart.Income.API/SpendSmart.Income.API.csproj" />
+  <Project Path="SpendSmart.Notification.API/SpendSmart.Notification.API.csproj" />
+  <Project Path="SpendSmart.Report.API/SpendSmart.Report.API.csproj" />
+  <Project Path="SpendSmart.Shared/SpendSmart.Shared.csproj" />
+</Solution>

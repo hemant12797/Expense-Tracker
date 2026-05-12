@@ -1,0 +1,11 @@
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\bin\Release\net10.0\SpendSmart.Shared.deps.json
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\bin\Release\net10.0\SpendSmart.Shared.dll
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\bin\Release\net10.0\SpendSmart.Shared.pdb
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.AssemblyInfoInputs.cache
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.AssemblyInfo.cs
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.dll
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\refint\SpendSmart.Shared.dll
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\SpendSmart.Shared.pdb
+C:\Projects\Expense_Tracker\Backend\SpendSmart.Shared\obj\Release\net10.0\ref\SpendSmart.Shared.dll
