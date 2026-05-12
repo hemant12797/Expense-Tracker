@@ -1,6 +1,0 @@
-@SpendSmart.Income.API_HostAddress = http://localhost:5068
-
-GET {{SpendSmart.Income.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

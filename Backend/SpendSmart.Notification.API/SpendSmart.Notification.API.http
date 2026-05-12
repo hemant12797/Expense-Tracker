@@ -1,6 +1,0 @@
-@SpendSmart.Notification.API_HostAddress = http://localhost:5207
-
-GET {{SpendSmart.Notification.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
