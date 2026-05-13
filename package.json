@@ -1,0 +1,12 @@
+{
+  "name": "spendsmart-root",
+  "version": "1.0.0",
+  "description": "SpendSmart Expense Tracker Root Configuration",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File ./run-all.ps1",
+    "frontend": "npm start --prefix Frontend",
+    "backend": "powershell -ExecutionPolicy Bypass -Command \"Write-Host 'Use run-all.ps1 to start all backend services or start them individually in Backend folder.' -ForegroundColor Yellow\""
+  },
+  "author": "SpendSmart Team",
+  "license": "ISC"
+}
